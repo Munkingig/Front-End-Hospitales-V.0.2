@@ -1,1 +1,1 @@
-Front-End de una aplicación web que sirve como sistema de hospitales, para controlar médicos y usuarios. Técnologias utilizadas son: MongoDB, Angular_CLI, Node_JS, Express_JS.
+Front-End de la aplicación web que sirve como sistema de hospitales, para controlar médicos y usuarios. Técnologias utilizadas son: MongoDB, Angular_CLI, Node_JS, Express_JS.
